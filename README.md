@@ -9,7 +9,7 @@ This example demonstrates how to build an Android app with TensorFlow Lite to ru
 Follow these steps to set up Offline AI:
 
 1. Clone the Offline AI project.
-2. Download the model file from [model download link] and save it to your local system.
+2. Download the model file from [model download link](https://drive.google.com/file/d/1vYzDwl7W0YAhunRhe1rgastw3p7-8Gym/view?usp=drive_link) and save it to your local system.
 
 ### Steps for Setup
 
